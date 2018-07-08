@@ -8,3 +8,5 @@ start with no knowledge of the positions of the bottles and will have to locate 
 The robot started behind a start line marked on the floor, facing forwards, and there was a  parallel goal line 3m ahead.
 
 The obstacles we used are soda bottles, which were considered as heavy vertical cylinders with radius 6cm.
+
+![Challenge Video](https://www.youtube.com/watch?v=ENcUDl_qaL4)
