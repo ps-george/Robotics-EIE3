@@ -20,5 +20,7 @@ The challanges included:
 4. Trying to learn a particular signature of a location to perform continuous localisation [asssignment_5](/assignment_5).
 5. Final challenge in avoiding obstacles to reach a final destination [challenge](/challenge).
 
+#### [Solving the final challenge video](https://www.youtube.com/watch?v=ENcUDl_qaL4)
+
 ### Authors:
 George Punter, Owen Harcombe, Mike Chen, Martin Ferianc at Imperial College London 2017.
